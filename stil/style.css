@@ -1,0 +1,66 @@
+/*
+1 - Yazılı Rənglər (red,green)
+2 - HEX Code
+3 - RGB
+4 - HSL
+
+/* color:#F8BA00; */
+/* color:#56ef93; */
+/* color: rgb(4, 61, 26) */
+/* color: rgba(4,61,26,0.5) */
+/* color: hsl(144, 87%, 13%) */
+/* color:hsl(347, 87%, 34%); */
+/* color:hsla(347, 87%, 34%, 0.3); */
+
+  /* px */
+/* font-size: 50px; */
+/* 100% = 16px */
+/* font-size:100%; */
+
+/* font-style: oblique; */
+/* font-style: italic; */
+
+/* font-variant: small-caps; */
+
+/* font-weight: bold; */
+
+/* font-family: Helvetica, Tahoma, serif; */
+
+
+
+p {
+    font-family: Helvetica, Tahoma, serif;
+    font-size:16px;
+    line-height: 150%;
+}
+
+
+.aytac {
+    font-size:24px;
+    color:#ff0000;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+#qedir {
+    font-size:10px;
+    color:blue;
+    font-weight: bold;
+    font-family: Georgia;
+}
+
+
+.anasehife {
+    color:blue;
+    font-weight: normal;
+    font-family: Impact;
+    font-size:16px;
+}
+
+.link {
+    font-size:20px;
+    font-family: Georgia;
+     font-weight: bold;
+     color:red;
+ }
+ 
