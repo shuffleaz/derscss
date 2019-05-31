@@ -1,0 +1,48 @@
+body {
+    /* background-color: #dd8127; */
+    /* background-image: url(ironman.jpg); */
+    /* background-position: left; */
+    /* background-repeat: no-repeat; */
+    /* background-size:cover; */
+    /* background-attachment: fixed; */
+    /* background: #dd8127 url(ironman.jpg) no-repeat top left; */
+    /* background: linear-gradient( #833ab4, #fd1d1d, #fcb045); */
+    /* background: radial-gradient( #833ab4, #fd1d1d, #fcb045) */
+    background-image: url(ironman.jpg);
+    margin:0;
+    padding:0;
+}
+
+.qutu {
+    background-color:rgba(102, 193, 255, 0.8);
+    width:200px;
+    height:200px;
+    margin-left:auto;
+    margin-right:auto;
+    margin: 0 auto;
+    /* margin-top:30px; */
+
+    /* top - üst
+    left - sol
+    right - sağ
+    bottom - alt  */
+
+    /* ust, sag, alt, sol */
+    /* margin: 20px 40px 80px 120px; */
+
+    /* ust, alt - sag sol */
+    /* margin: 30px 120px; */
+
+    /* padding-left:10px;
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-right:40px; */
+}
+
+.qutu-text {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:16px;
+    padding-left:16px;
+
+}
