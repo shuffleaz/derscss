@@ -1,0 +1,100 @@
+html, body {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color: #1D1D1D;
+}
+
+.header_logo {
+    background-color: #D8D8D8;
+    height:50px;
+    width:100%;
+}
+
+.header_logo_area {
+    padding-top:10px;
+    text-align: center;
+}
+
+.header_logo_area img {
+    width:30px;
+}
+
+.header_slogan {
+    background: linear-gradient(to bottom, #EEEEEE, #D8D8D8);
+    height:50px;
+    text-align: center;
+}
+
+.header_slogan ul {
+    list-style: none;
+    margin:0;
+    padding: 0;
+}
+
+.header_slogan ul li {
+    display: inline-block;
+    background-color:#171717;
+    width:150px;
+    height: 30px;
+    text-align: center;
+}
+
+.header_slogan ul li a {
+    line-height: 30px;
+    text-decoration: none;
+    color:#fff;
+    font-weight: bold;
+}
+
+.header_slogan_text {
+    font-family: 'Cera Pro',serif;
+    font-weight: lighter;
+    padding-top:15px;
+}
+
+main {
+    width:780px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+section.product {
+    padding-top:30px;
+}
+
+.product_image {
+    margin-bottom:20px;
+}
+
+.product_image img{
+    width:100%;
+    height:150px;
+    object-fit: cover;
+}
+
+
+.product_details {
+    margin-bottom:20px;
+}
+
+.product_details_text {
+    font-family: 'Cera Pro',serif;
+    font-weight: lighter;
+    font-size:18px;
+    color:white;
+    padding-bottom:5px;
+}
+
+.product_buy a{
+    color:white;
+    background:linear-gradient(to right, #FF3232, #FF2CE6, #F7B500);
+    font-family: 'Cera Pro',serif;
+    text-decoration: none;
+    font-weight: bold;
+    padding:10px 20px;
+    border-radius: 4px;
+}
+
